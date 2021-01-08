@@ -7,9 +7,9 @@
 ### 実行手順
 ```
 1.リポジトリをクローンする.
-$ cd ~/catkin_ws/src
+$ git clone https://github.com/yukikimuramura/robosys_2020_kadai03_resubmit.git
 2.ディレクトリに入る.
-$ git clone https://github.com/yukikimuramura/mypkg.git
+$ cd robosys_2020_kadai03_resubmit
 3.コンパイルする
 $ gcc -o kadai3 kadai3.c
 4.実行する
