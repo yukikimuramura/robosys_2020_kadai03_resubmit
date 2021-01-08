@@ -2,6 +2,7 @@
 /*
  * Copyright(C) 2020 Yuki Kimura.All right reserved.
 */
+
 #include<stdio.h>
 
 int main(void){
