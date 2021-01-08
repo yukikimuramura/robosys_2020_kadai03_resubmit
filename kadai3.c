@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: GPL-3.0
+/*
+ * Copyright(C) 2020 Yuki Kimura.All right reserved.
+*/
 #include<stdio.h>
 
 int main(void){
